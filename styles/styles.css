@@ -202,7 +202,11 @@ nav svg {
 .footer {
   background-color: #3b3b3b;
   color: #fff;
-  height: 2vh;
+  height: 200px;
+}
+.map {
+  margin-top: 40px;
+  width: 100%;
 }
 
 @media screen and (min-width: 768px) {
